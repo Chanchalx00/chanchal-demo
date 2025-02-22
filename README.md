@@ -1,3 +1,4 @@
 # chanchal-demo
-This is my first Git Repo
-Author -  chanchal chourasia
+This is my first Git Repository.
+<br>
+Author -  Chanchal Chourasia
